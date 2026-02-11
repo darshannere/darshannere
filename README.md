@@ -44,43 +44,6 @@ me.say_hi()
 
 ---
 
-## 🔬 Current Research & Projects
-
-### 🧠 **LLM Optimization & Security**
-- **GRPO vs DPO for Mathematical Reasoning**: Achieved **71% accuracy** (+13% over DPO) with **33% lower VRAM** on GSM8K dataset using Qwen2.5-3B
-- **Chain-of-Thought Medical Reasoning**: Enhanced medical diagnosis accuracy by **11%** through GRPO fine-tuning
-- **Cross-Layer LLM Security Survey**: Comprehensive analysis of jailbreaks, privacy attacks, and multi-agent system vulnerabilities
-- **Cybench-LLM Pipeline**: Converting CTF challenge transcripts to JSONL for LLM evaluation in cybersecurity
-
-### 🏋️ **FlexGuard - Injury Prevention Wearable** (arXiv:2509.18662)
-Co-designing on-body haptic feedback systems to prevent injuries in strength training through real-time posture correction
-
-### ⚡ **High-Performance Systems**
-- **Ultra-Fast Search Engine**: 10M+ queries/second using advanced indexing and PostgreSQL optimization
-- **Real-Time Chat with WebSockets**: Scalable multi-user communication platform with Next.js and Express
-- **Video-Based Injury Classification**: ML system for football injury prediction using MediaPipe pose estimation
-
----
-
-## 💼 Professional Experience
-
-**🎓 Graduate Teaching Assistant** | Virginia Tech  
-*Aug 2024 - Present*
-- Teaching computer engineering fundamentals to 100+ students
-- Designing assignments and conducting lab sessions
-
-**💻 Software Engineer** | Cloud9Space, India  
-*Dec 2022 - Aug 2024*
-- Built municipal-scale software serving **50,000+ users** across Pune Municipal Corporation
-- Developed full-stack web applications with React, Node.js, and cloud infrastructure
-
-**📱 Mobile Developer** | Pune Municipal Corporation  
-*Jan 2022 - Jul 2023*
-- Created citizen-facing mobile applications for government services
-- Improved user engagement through intuitive UI/UX design
-
----
-
 ## 🛠️ Tech Stack
 
 ### **Languages**
