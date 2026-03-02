@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/badge/Website-darshannere.com-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://darshannere.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-darshan--nere-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/darshan-nere)
 [![Twitter](https://img.shields.io/badge/Twitter-@DarshanNere-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/DarshanNere)
-[![Email](https://img.shields.io/badge/Email-darshan.nere1%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:darshan.nere1@gmail.com)
+[![Email](https://img.shields.io/badge/Email-darshan.nere1%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:darshan.nere2@gmail.com)
 
 ---
 
