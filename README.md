@@ -194,13 +194,6 @@ I love to **build and break things**. Whether it's creating efficient systems or
 
 ---
 
-<div align="center">
-
-### 💭 Quote of the Day
-
-> *"I love to both build and break things. Motivated by challenging projects with self-guided research and dynamic problem solving."*
-
----
 
 **✨ Thanks for visiting! Let's build the future of technology together.**
 
