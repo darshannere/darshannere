@@ -1,6 +1,6 @@
 # Hi there, I'm Darshan Nere 👋
 
-**MS Computer Engineering @ Virginia Tech** | Software Engineer | Machine Learning Researcher
+**MS Computer Engineering @ Virginia Tech** | Software Engineer | ML Researcher
 
 [![Website](https://img.shields.io/badge/Website-darshannere.com-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://darshannere.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-darshan--nere-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/darshan-nere)
@@ -11,86 +11,42 @@
 
 ## 🚀 About Me
 
-I'm a software engineer and graduate student passionate about **leveraging technology to tackle real-world challenges**. My work spans machine learning, software engineering, computer networks, and cybersecurity—with a particular focus on building scalable systems that push the boundaries of what's possible.
+I build AI infrastructure, train LLMs to reason better, and ship systems that scale. Working on open-source projects with 300+ active users.
 
 ```python
 class DarshanNere:
     def __init__(self):
-        self.role = "MS Computer Engineering Student"
-        self.location = "Blacksburg, VA"
-        self.education = "Virginia Tech"
-        self.graduation = "2026"
-        
+        self.role     = "MS Computer Engineering @ Virginia Tech"
+        self.graduating = "May 2026"
         self.interests = [
-            "Machine Learning & AI",
-            "LLM Security & Optimization",
-            "Full-Stack Development",
-            "Cybersecurity (CTFs & Penetration Testing)",
-            "Human-Computer Interaction"
+            "AI Agent Infrastructure & Observability",
+            "Reinforcement L
+            "LLM Security & Multi-Agent Systems",
+            "Full-Stack & Sy
+            "Human-Computer Interaction",
         ]
-        
         self.current_work = {
-            "research": "LLM security, mathematical reasoning, wearable feedback systems",
-            "ta": "Graduate Teaching Assistant @ VT",
-            "ra": "Research Assistant @ VT"
+            "building":  "Tracia platform",
+            "open_src":  "ObservAgent — 300+ active users",
+            "research":  "LLfeedback (FlexGuard)",
+            "teaching":  "Graduate TA @ VT (ML + C++, 180 students)",
         }
-        
+
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
+        print("Open to full-time roles in SWE / ML Eng / AI Infra — May 2026 🚀")
 
 me = DarshanNere()
 me.say_hi()
 ```
 
----
 
-## 🛠️ Tech Stack
-
-### **Languages**
-```
-Python  •  TypeScript  •  JavaScript  •  C++  •  Java  •  Kotlin  •  Dart  •  Go
-SQL  •  R  •  Swift  •  PHP  •  Assembly
-```
-
-### **Machine Learning & AI**
-```
-PyTorch  •  TensorFlow  •  Keras  •  Scikit-learn  •  Pandas  •  NumPy
-Transformers  •  LangChain  •  Hugging Face  •  OpenCV  •  MediaPipe
-```
-
-### **Web Development**
-```
-React  •  Next.js  •  Vue.js  •  Nuxt  •  Astro  •  SolidJS
-Node.js  •  Express  •  NestJS  •  Django  •  Flask
-TailwindCSS  •  Bootstrap  •  Vite
-```
-
-### **Mobile Development**
-```
-Flutter  •  React Native  •  Expo  •  Swift  •  Kotlin
-```
-
-### **Cloud & DevOps**
-```
-AWS  •  GCP  •  Firebase  •  Vercel  •  Netlify  •  Cloudflare
-Docker  •  Nginx  •  GitHub Actions  •  GitLab CI
-```
-
-### **Databases**
-```
-PostgreSQL  •  MySQL  •  MongoDB  •  DynamoDB  •  SQLite
-Prisma  •  Supabase  •  PlanetScale
-```
-
----
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- 🏋️ [FlexGuard: Preventing Injuries in Strength Training with Wearable Feedback](https://darshannere.com/blog/04-flexgaurd)
-- 🔒 [A Cross-Layer Survey of Security for Large Language Models](https://darshannere.com/blog/05-agents_security)
-- 💻 [My VT Hacks 12 Experience: Building HomeRun Platform](https://darshannere.com/blog/03-vthacks)
-<!-- BLOG-POST-LIST:END -->
+- 🤖 [Open-Sourcing ObservAgent: Making Claude Code Sessions Actually Observable](https://darshannere.com/projects/07-observagent-opensource/) — Mar 2026
+- 🐳 [Running OpenClaw Safely with Docker](https://darshannere.com/projects/06-openclaw-docker/) — Feb 2026
+- 🏋️ [FlexGuard: Designing On-Body Feedback to Prevent Injuries in Strength Training](https://darshannere.com/projects/04-flexgaurd/) — Jan 2026
+- 🔒 [A Cross-Layer Survey of Security for Large Language Models](https://darshannere.com/projects/05-agents_security/) — Dec 2025
 
 ➡️ [Read more on darshannere.com/blog](https://darshannere.com/blog)
 
@@ -99,22 +55,21 @@ Prisma  •  Supabase  •  PlanetScale
 ## 🏆 Achievements & Highlights
 
 ```yaml
-academic:
-  - MS Computer Engineering @ Virginia Tech (2024-2026)
-  - Research in LLM optimization, security, and HCI
-  - Graduate TA/RA with published research
+ai_infrastructure:
+  - Tracea: team AI agent observability — FastAPI, React, YAML rules, MCP server
+  - ObservAgent: open sourcee integration
+  - OpenClaw Docker: safe containerization for autonomous AI agents
 
-technical:
-  - 71% accuracy on GSM8K with GRPO (beating SOTA small models)
-  - Built search engine handling 10M+ queries/second
-  - Municipal software serving 50,000+ users
-  - CTF competitor on HackTheBox
+ml_research:
+  - GRPO on Qwen2.5-3B: 71% seline (-33% VRAM)
+  - Medical CoT + GRPO: +11% accuracy over SFT on 90k+ samples (single T4)
+  - LLM Security Survey: Neus security layer
+  - FlexGuard: arXiv:2509.18662, HCI wearable feedback design space
 
-community:
-  - VT Hacks 12 Participant
-  - FOSSASIA Contributor
-  - Technical blogger with 10+ articles
-  - Open source contributor
+systems:
+  - 10M queries/second searc space indexing
+  - Municipal software serving 50,000+ citizens (Pune Municipal Corporation)
+  - 40% reduction in server on + connection pooling
 ```
 
 ---
@@ -123,29 +78,25 @@ community:
 
 ```javascript
 const currentlyWorkingOn = {
-  🔬 research: [
-    "Converting CTF challenges to JSONL for Cybench-LLM",
-    "Optimizing LLM reasoning with GRPO/DPO",
-    "Wearable feedback systems for injury prevention"
+  "🤖 building": [
+    "Tracea — AI agent obserrules + AI-powered RCA",
+    "ObservAgent — open source monitoring for AI agent sessions",
   ],
-  
-  🎓 learning: [
+  "🔬 research": [
+    "GRPO / DPO for LLM reas
+    "Multi-agent system security and attack surface analysis",
+    "Wearable feedback systexGuard)",
+  ],
+  "🎓 learning": [
     "Advanced RL techniques (GRPO, DPO, PPO)",
-    "LLM security and jailbreak prevention",
-    "Multi-agent system architectures"
+    "MCP server design and a
+    "Production-scale LLM inference optimization",
   ],
-  
-  🛠️ building: [
-    "High-performance data engineering pipelines",
-    "CTF challenge automation tools",
-    "Research paper conversion utilities"
+  "💼 seeking": [
+    "Software Engineering —
+    "ML Engineering / AI Infrastructure roles",
+    "Research collaborations",
   ],
-  
-  💼 seeking: [
-    "Data Engineering opportunities",
-    "Software Engineering roles",
-    "Research collaborations in ML/Security"
-  ]
 };
 ```
 
@@ -153,48 +104,34 @@ const currentlyWorkingOn = {
 
 ## 📫 Let's Connect!
 
-I love to **build and break things**. Whether it's creating efficient systems or solving complex CTF challenges, I'm motivated by projects that require deep technical understanding and creative problem-solving.
+I love to **build and break things** — from AI observability platforms to fine-tuning
+LLMs on consumer hardware. I hard, let's talk.
 
 **Open to:**
-- 💼 Full-time opportunities (Data Engineering, Software Engineering, ML)
-- 🤝 Research collaborations
-- 💡 Interesting technical discussions
-- 🏆 CTF team invitations
+- 💼 Full-time SWE / ML Eng / AI Infra roles (available May 2026)
+- 🤝 Research collaborationscurity
+- 💡 Open source contributions and interesting technical discussions
 
-**Best ways to reach me:**
-- 📧 Email: [darshan.nere2@gmail.com](mailto:darshan.nere2@gmail.com)
-- 💼 LinkedIn: [darshan-nere](https://linkedin.com/in/darshan-nere)
-- 🌐 Website: [darshannere.com](https://darshannere.com)
-- 🐦 Twitter: [@DarshanNere](https://twitter.com/DarshanNere)
+**Reach me:**
+- 📧 darshan.nere2@gmail.com
+- 💼 [linkedin.com/in/darshan-nere](https://linkedin.com/in/darshan-nere)
+- 🌐 [darshannere.com](https://darshannere.com)
+- 🐦 [@DarshanNere](https://twitter.com/DarshanNere)
 
 ---
 
 ## 💡 Fun Facts
 
-- 🎯 Hack**The**Box enthusiast - solving CTF challenges in my free time
-- 🏗️ Built software serving 50,000+ citizens
-- 📊 Published research on LLM optimization and wearable feedback systems
-- 🌐 Contributed to FOSSASIA open source projects
-- 🚀 Can optimize your model to run on consumer hardware (proved it with Qwen2.5-3B!)
-- ☕ Fueled by coffee, curiosity, and challenging problems
+- 🤖 Built an observability platform used by 300+ AI developers worldwide
+- 🏗️ Shipped software servinnicipal Corporation
+- 🧠 Fine-tuned Qwen2.5-3B to 71% on GSM8K — on a single consumer GPU
+- 📄 Published research at N
+- ☕ Fueled by coffee, curiosity, and unreasonably hard problems
 
 ---
 
-
-**✨ Thanks for visiting! Let's build the future of technology together.**
+**✨ Thanks for visiting! Let's build something that matters.**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=darshannere&color=blueviolet&style=flat-square)
 
-</div>
-
 ---
-
-<details>
-<summary>📈 More Stats</summary>
-<br>
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=darshannere&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=darshannere&theme=react-dark&hide_border=true)
-
-</details>
