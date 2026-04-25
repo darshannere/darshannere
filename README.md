@@ -125,7 +125,6 @@ LLMs on consumer hardware. I hard, let's talk.
 - 🤖 Built an observability platform used by 300+ AI developers worldwide
 - 🏗️ Shipped software servinnicipal Corporation
 - 🧠 Fine-tuned Qwen2.5-3B to 71% on GSM8K — on a single consumer GPU
-- 📄 Published research at N
 - ☕ Fueled by coffee, curiosity, and unreasonably hard problems
 
 ---
